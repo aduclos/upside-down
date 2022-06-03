@@ -1,0 +1,25 @@
+{
+  "name": "curse-of-strahd",
+  "title": "my-strahd-game",
+  "description": "",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "coreVersion": "9.245",
+  "systemVersion": "1.5.6",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "authors": [
+    "R20Converter"
+  ],
+  "packs": [],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "socket": false,
+  "flags": {},
+  "dependencies": [],
+  "protected": false,
+  "resetKeys": false,
+  "safeMode": false
+}
