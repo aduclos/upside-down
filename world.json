@@ -8,8 +8,9 @@
   "systemVersion": "1.5.6",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
+  "url": "https://github.com/aduclos/upside-down",
   "authors": [
-    "R20Converter"
+    "Andrew Duclos"
   ],
   "packs": [],
   "scripts": [],
@@ -18,6 +19,7 @@
   "languages": [],
   "socket": false,
   "flags": {},
+  "download": "https://github.com/aduclos/upside-down/archive/refs/heads/main.zip",
   "dependencies": [],
   "protected": false,
   "resetKeys": false,
